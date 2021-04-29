@@ -1,0 +1,21 @@
+.swapping{
+    text-align: center;
+    padding-top: 100px;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/1567834.jpg);
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+}
+button{
+    border-radius: 5px;
+    padding:10px;
+    background-color:#5f88c1;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color:#3a73a9;
+}
